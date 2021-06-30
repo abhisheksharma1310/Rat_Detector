@@ -35,4 +35,4 @@ void loop()
 
 <p>Schematic</p>
 
-<img src = "https://github.com/abhisheksharma1310/Rat_Detector/blob/main/Rat%20Detector.png>
+<img src = "https://github.com/abhisheksharma1310/Rat_Detector/blob/main/Rat%20Detector.png">
